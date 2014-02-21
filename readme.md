@@ -3,7 +3,7 @@ This is a modification of the standard F3 readme.md
 The standard F3 directory structure has been modifed to be more secure and not allow the lib/ folder to be accessed when deployed.
 
 
-[![Fat-Free Framework](images/logo.png)](http://fatfree.sf.net/)
+[![Fat-Free Framework](public/images/logo.png)](http://fatfree.sf.net/)
 
 **A powerful yet easy-to-use PHP micro-framework designed to help you build dynamic and robust Web applications - fast!**
 
@@ -57,7 +57,7 @@ The philosophy behind the framework and its approach to software architecture is
 * [Quick Reference](#quick-reference)
 * [Support and Licensing](#support-and-licensing)
 
-[![Twitter](images/twitter.png)](https://twitter.com/phpfatfree)
+[![Twitter](public/images/twitter.png)](https://twitter.com/phpfatfree)
 
 ### Version 3.2 Is Finally Here!
 
@@ -2490,8 +2490,8 @@ The Fat-Free Framework is community-driven software. It can't be what it is toda
 
 Special thanks to the selfless others who expressed their desire to remain anonymous, yet share their time, contribute code, send donations, promote the framework to a wider audience, as well as provide encouragement and regular financial assistance. Their generosity is F3's prime motivation.
 
-[![Paypal](images/donate.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MJSQL8N5LPDAY)
-[![Bitcoin](images/bitcoin.png)](https://coinbase.com/checkouts/7986a0da214006256d470f2f8e1a15cf)
+[![Paypal](public/images/donate.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MJSQL8N5LPDAY)
+[![Bitcoin](pubulic/images/bitcoin.png)](https://coinbase.com/checkouts/7986a0da214006256d470f2f8e1a15cf)
 
 **Copyright (c) 2009-2013 F3::Factory/Bong Cosca &lt;bong&#46;cosca&#64;yahoo&#46;com&gt;**
 
